@@ -17,7 +17,7 @@ title: "Static Sites and GitHub Pages"
 __How 90's of you. Just make a facebook page and call it a day!__.
 {:.fragment}
 
-Nah. We're programmers, CS Majors, technofiles, [tiny cat and octopus hybrid mutants](https://octodex.github.com/), [people who like making [Byzantine complexity](https://en.wikipedia.org/wiki/Byzantine_complexity) to make their lives simultaneously easier and more _terrible_.
+Nah. We're programmers, CS Majors, technophiles, [tiny cat and octopus hybrid mutants](https://octodex.github.com/), people who like making [Byzantine complexity](https://en.wikipedia.org/wiki/Byzantine_complexity) to make their lives simultaneously easier and more _terrible_.
 {:.fragment}
 
 __So, of course, we're going to look for some options _different_ options.__ &rarr;
@@ -51,7 +51,7 @@ __For personal sites, a static site hosted on some else's servers / platform / c
 
 1. {:.fragment} __maintaining our servers is hard [let's go shopping](http://itre.cis.upenn.edu/~myl/languagelog/archives/002892.html) ([a snowclone of course](https://snowclones.org/2008/02/19/x-is-hard-let%E2%80%99s-go-shopping/))__
 2. {:.fragment} seriously, __you do not want to maintain your own servers__, have to deal with security updates, make sure it's up-and-running, make sure it's not hacked into, etc. 😮 
-3. {:.fragment} not everything needs a database and a server side language - writing html is just simpler ([english language and usage stackexhange, who knew?](http://english.stackexchange.com/questions/2166/more-clear-vs-clearer-when-to-use-more-instead-of-er))!
+3. {:.fragment} not everything needs a database and a server side language - writing html is just simpler ([english language and usage stackexchange, who knew?](http://english.stackexchange.com/questions/2166/more-clear-vs-clearer-when-to-use-more-instead-of-er))!
 4. {:.fragment} __less points of failure__ - simply just serving static files is less prone to failure than running a database, an application server and a web server
 5. {:.fragment} you're just dealing with __plain text__ (you can use text manipulation tools for finding and replacing content)
 
