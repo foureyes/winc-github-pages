@@ -22,7 +22,7 @@ It's me, __Joe Versoza__! &rarr;
     * {:.fragment} Some people think I give _a lot_ of homework  (I think I don't, ¯\\_(ツ)_/¯ ) 
     * {:.fragment} Don't worry, there's __no homework 4 U.__
 
-I'm giving this talk because some of your fellow students / ACM members _thought_ I knew stuff about it (I do _sort of_ ... but mainly because __all of my course sites are built with the technologies we'll discuss__)
+I'm giving this talk because I volunteered to do it and some of your fellow students _thought_ I knew stuff about it (I do _sort of_ ... but mainly because __all of my course sites are built with the technologies we'll discuss__)
 {:.fragment} 
    
 
