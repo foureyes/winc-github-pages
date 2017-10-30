@@ -63,7 +63,7 @@ __How many people have experience with__ &rarr;
 <section markdown="block">
 # If you already have used GitHub pages and Jekyll, you'll probably be bored
 
-(maybe buy some Valentine's day candies and watch a romantic comedy instead of staying here? 💖💖💖)
+(maybe buy some Halloween candies and watch a movie instead of staying here? 🎃🎃)
 
 </section>
 <section markdown="block">
